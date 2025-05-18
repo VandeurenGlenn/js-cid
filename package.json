@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "js-multicodec": "https://github.com/vandeurenglenn/js-multicodec",
-    "multibase": "~0.4.0",
+    "multibase": "~4.0.6",
     "multicodec": "https://github.com/VandeurenGlenn/js-multicodec",
     "multihashes": "~0.4.13"
   },
